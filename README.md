@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-This is my first repository project as I explore python
+This is a readme that contains all the 0x01-python-if_else_loops_functions programs
