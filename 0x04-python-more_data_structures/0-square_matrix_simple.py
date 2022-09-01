@@ -16,3 +16,4 @@ def square_matrix_simple(matrix=[]):
             new_row.append(col ** 2)
         new_matrix.append(new_row)
     return new_matrix
+
