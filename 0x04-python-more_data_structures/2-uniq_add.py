@@ -13,4 +13,3 @@ def uniq_add(my_list=[]):
     for num in set(my_list):
         res += num
     return res
-
