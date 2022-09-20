@@ -1,1 +1,1 @@
-This is a file that contains 0x05-python-exceptions
+This is a file that contains 0x08-python-more_classes
